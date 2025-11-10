@@ -1,5 +1,6 @@
 # Final-Project
-*Group Final Projec
+*Group Final Project
+
 **Team Name:** Ctrl Alt Elite (Group 37)
 - **Members:** 
     - Tre Stevenson: TRS239@pitt.edu
