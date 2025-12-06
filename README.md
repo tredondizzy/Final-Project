@@ -9,5 +9,7 @@
 Description: Using various data to figure out the best neighborhood in Pittsburgh.
 
 Crime Activity - https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
+
 Neighborhood Snapshot Data - https://data.wprdc.org/dataset/neighborhoods-with-snap-data
+
 311 Service Requests -  https://data.wprdc.org/dataset/311-data
